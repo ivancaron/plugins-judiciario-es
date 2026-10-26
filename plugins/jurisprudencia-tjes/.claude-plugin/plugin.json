@@ -1,0 +1,19 @@
+{
+  "name": "jurisprudencia-tjes",
+  "description": "Pesquisa a jurisprudência pública do TJES (1º grau, acórdãos, monocráticas, acervo físico e turmas recursais) com filtro por câmara, magistrado, classe, assunto e comarca, e traz os IRDR, IAC e súmulas do tribunal pelo Banco Nacional de Precedentes. Ementa sempre literal; cobertura sempre declarada.",
+  "version": "0.1.0",
+  "author": {
+    "name": "plugins-judiciario-es"
+  },
+  "repository": "https://github.com/ivancaron/plugins-judiciario-es",
+  "homepage": "https://github.com/ivancaron/plugins-judiciario-es#readme",
+  "license": "MIT",
+  "keywords": [
+    "jurisprudencia",
+    "tjes",
+    "espirito-santo",
+    "precedentes",
+    "irdr",
+    "magistratura"
+  ]
+}

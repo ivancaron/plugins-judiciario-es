@@ -1,0 +1,19 @@
+{
+  "name": "judiciario-es",
+  "owner": {
+    "name": "plugins-judiciario-es"
+  },
+  "metadata": {
+    "description": "Plugins do Claude Code para o trabalho jurisdicional no Espírito Santo",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "jurisprudencia-tjes",
+      "source": "./plugins/jurisprudencia-tjes",
+      "description": "Pesquisa nos cinco acervos de jurisprudência do TJES e nos precedentes qualificados do tribunal, com o comando /jurisprudencia-tjes",
+      "version": "0.1.0",
+      "category": "pesquisa-juridica"
+    }
+  ]
+}
